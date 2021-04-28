@@ -1,11 +1,12 @@
 {
-  "name": "odometer",
-  "version": "0.4.8",
-  "description": "Transition numbers with ease",
+  "name": "odometer-min-len",
+  "version": "0.0.1",
+  "description": "Transition numbers with ease (includes leading zeros)",
   "main": "odometer.js",
   "authors": [
     "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
-    "Zack Bloom <zackbloom@gmail.com>"
+    "Zack Bloom <zackbloom@gmail.com>",
+    "Mikael H. Møller"
   ],
   "license": "MIT",
   "devDependencies": {
